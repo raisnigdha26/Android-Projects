@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SRaiUnitConverterApp</string>
+    <string name="button">Button</string>
+    <string name="enter_the_kg_value">Enter the kg value</string>
+    <string name="toda">TODA</string>
+    <string name="todo">TODO</string>
+</resources>
